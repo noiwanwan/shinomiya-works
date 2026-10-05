@@ -18,3 +18,4 @@ GitHub Pagesは静的サイトのため、送信ボタンを押すと利用者�
 
 GitHub更新
 ZIPを展開し、shinomiya-works リポジトリの同名ファイルを上書きしてください。
+test
