@@ -1,7 +1,20 @@
-バッテリー交換追加
-- バッテリー交換工賃: ¥1,500〜¥2,000
-- バッテリー本体代は別
-- メモリーバックアップ / 車両側リセットが必要な車種は作業内容により変動
-- 廃バッテリー引取・処分は事前相談
-- index.htmlのサービス説明・料金カード・構造化データも更新
-- electrical.htmlの料金表・FAQ・構造化データも更新
+名古屋市・ダイハツ ミラの施工実績を追加
+
+追加内容
+- work-29.jpg: ETC取付
+- work-30.jpg: ナビ・ドラレコ取付
+- work-31.jpg: ヘッドライト磨き BEFORE
+- work-32.jpg: ヘッドライト磨き AFTER
+- index.html のランダム施工実績へ4枚追加
+- electrical.html に「名古屋市・ダイハツ ミラ施工例」を追加
+- ala-carte.html にヘッドライト磨き BEFORE / AFTERを追加
+- alt文にも「名古屋市・ダイハツ ミラ・施工内容」を自然に設定
+
+GitHubへ上書き/追加:
+index.html
+electrical.html
+ala-carte.html
+work-29.jpg
+work-30.jpg
+work-31.jpg
+work-32.jpg
